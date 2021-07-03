@@ -11,3 +11,10 @@ At its heart, GitHub is a collaboration platform.
 
 we use commit to save the file
 we use an edit mark at the right side to edit the file 
+
+we press the history icon at the right side to see all the list of all change we have done so far
+when we open the links all the changes are highlighted in a light green color.
+we can observe at the right side a commit and a long hexadecimal number which indicate the hash number of the commit
+hash number here reflect that it t a unique identifier of the changes made
+whe can also notice on the browser url that there an aboulute path address with the hash number
+
