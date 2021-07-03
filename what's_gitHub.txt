@@ -1,0 +1,10 @@
+At its heart, GitHub is a collaboration platform.
+
+- GitHub help working with the collaboration and security tools your team needs. 
+- GitHub keeps projects completely private, invite the world to collaborate, and streamline every step of your project.
+- It is powerful version control tool.
+- it uses Git whihc is an open source version control software to track every contribution and contributor to your project.
+--so you know exactly where every line of code came from.
+- GitHub is used to build some of the most advanced technologies in the world. 
+- Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. 
+- This course starts with the basics, but we'll dig into the rest later!
