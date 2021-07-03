@@ -8,3 +8,6 @@ At its heart, GitHub is a collaboration platform.
 - GitHub is used to build some of the most advanced technologies in the world. 
 - Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. 
 - This course starts with the basics, but we'll dig into the rest later!
+
+we use commit to save the file
+we use an edit mark at the right side to edit the file 
